@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mmodel/mmodel.iml" filepath="$PROJECT_DIR$/mmodel/mmodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msystem/msystem.iml" filepath="$PROJECT_DIR$/msystem/msystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system/system.iml" filepath="$PROJECT_DIR$/system/system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xmzj.iml" filepath="$PROJECT_DIR$/xmzj.iml" />
+    </modules>
+  </component>
+</project>
