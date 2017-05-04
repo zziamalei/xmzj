@@ -7,12 +7,6 @@
           <element id="module-output" name="web" />
         </element>
         <element id="directory" name="lib">
-          <element id="archive" name="msystem-1.0-SNAPSHOT.jar">
-            <element id="module-output" name="msystem" />
-          </element>
-          <element id="archive" name="mmodel-1.0-SNAPSHOT.jar">
-            <element id="module-output" name="mmodel" />
-          </element>
           <element id="library" level="project" name="Maven: org.bouncycastle:bcprov-jdk16:1.46" />
           <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.31" />
           <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.5.3" />
@@ -51,12 +45,18 @@
           <element id="library" level="project" name="Maven: org.springframework.data:spring-data-redis:1.8.3.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.data:spring-data-keyvalue:1.2.3.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.data:spring-data-commons:1.13.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.24" />
           <element id="library" level="project" name="Maven: org.springframework:spring-oxm:4.3.8.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-context-support:4.3.8.RELEASE" />
-          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.24" />
           <element id="library" level="project" name="Maven: junit:junit:4.12" />
           <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.3" />
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:6.0.6" />
+          <element id="archive" name="msystem-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="msystem" />
+          </element>
+          <element id="archive" name="mmodel-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="mmodel" />
+          </element>
         </element>
       </element>
       <element id="directory" name="META-INF">

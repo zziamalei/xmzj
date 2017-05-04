@@ -22,7 +22,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="api" />
         <module name="common" />
         <module name="mmodel" />
         <module name="msystem" />
@@ -34,9 +33,9 @@
       <module name="api" target="1.5" />
       <module name="common" target="1.5" />
       <module name="mmodel" target="1.5" />
-      <module name="msystem" target="1.5" />
+      <module name="msystem" target="1.8" />
       <module name="system" target="1.5" />
-      <module name="web" target="1.5" />
+      <module name="web" target="1.8" />
       <module name="xmzj" target="1.5" />
     </bytecodeTargetLevel>
   </component>

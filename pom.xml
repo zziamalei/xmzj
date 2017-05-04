@@ -12,6 +12,9 @@
     <module>common</module>
       <module>msystem</module>
     <module>mmodel</module>
+    <module>api</module>
+    <module>api</module>
+    <module>api</module>
 
   </modules>
   <name>xmzj Maven Webapp</name>
