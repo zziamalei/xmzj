@@ -15,6 +15,8 @@
     <module>api</module>
     <module>api</module>
     <module>api</module>
+    <module>api</module>
+      <module>api</module>
 
   </modules>
   <name>xmzj Maven Webapp</name>
